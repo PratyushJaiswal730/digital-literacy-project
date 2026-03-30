@@ -1,4 +1,4 @@
-# Digital-literacy-project
+# Digital-Literacy-Project
 Name: Pratyush Jaiswal <br>
 Registration Number: 25BAi11065 <br>
 Course: CSE0001 Digital Literacy  
